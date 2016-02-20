@@ -1,0 +1,1 @@
+This webpage uses Django, Jquery, App Engine API's and the google Earth API to show marks (bussines) in a map when executes searches in the defined tags
